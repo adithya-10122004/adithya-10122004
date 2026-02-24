@@ -1,0 +1,8 @@
+
+{
+  "name": "LEGAL LENSE: Legal RAG Assistant",
+  "description": "A sophisticated RAG-powered legal assistant that matches user scenarios to relevant Indian Bare Acts and statutes using Gemini's advanced reasoning and search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
